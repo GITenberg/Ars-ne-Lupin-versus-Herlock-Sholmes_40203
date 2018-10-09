@@ -159,7 +159,7 @@ and it was a great pleasure for him to see her slender figure and
 childish smile waiting for him at the college gate. They returned home
 together.
 
-"And your writing desk--how is it this morning!"
+"And your writing desk--how is it this morning?"
 
 "Marvellous! Hortense and I have polished the brass mountings until they
 look like gold."
@@ -607,8 +607,8 @@ Such was the fate of every clue followed by the police. It ended
 nowhere. The mystery remained unsolved.
 
 Mon. Gerbois had not the strength or courage to wage such an unequal
-battle. The disappearance of his daughter crushed him;, he capitulated
-to the enemy. A short an announcement in the _Echo de France_ proclaimed
+battle. The disappearance of his daughter crushed him; he capitulated
+to the enemy. A short announcement in the _Echo de France_ proclaimed
 his unconditional surrender.
 
 Two days later, Mon. Gerbois visited the office of the Crédit Foncier
@@ -959,7 +959,7 @@ Mon. Gerbois took the money, but said:
 "She will not marry if you refuse your consent; but she wishes to
 marry."
 
-"What do you know about it!"
+"What do you know about it?"
 
 "I know that young girls often dream of such things unknown to their
 parents. Fortunately, there are sometimes good genii like Arsène Lupin
@@ -1080,17 +1080,17 @@ restored to him, he saw the situation in a different light. To him, the
 arrest of his adversary meant half-a-million francs. Instinctively, he
 made a step forward. As if by chance, Lupin stood in his way.
 
-"Where are you going, Monsieur Gerbois! To defend me against them! That
+"Where are you going, Monsieur Gerbois? To defend me against them! That
 is very kind of you, but I assure you it is not necessary. They are more
 worried than I."
 
 Then he continued to speak, with calm deliberation:
 
-"But, really, what do they know! That you are here, and, perhaps, that
+"But, really, what do they know? That you are here, and, perhaps, that
 Mlle. Gerbois is here, for they may have seen her arrive with an unknown
 lady. But they do not imagine that I am here. How is it possible that I
 could be in a house that they ran-sacked from cellar to garret this
-morning! They suppose that the unknown lady was sent by me to make the
+morning? They suppose that the unknown lady was sent by me to make the
 exchange, and they will be ready to arrest her when she goes out--"
 
 At that moment, the bell rang. With a brusque movement, Lupin seized
@@ -1294,7 +1294,7 @@ Probably an hour had passed, when he leaped from his bed in alarm. The
 bell was ringing. It rang for some time, seven or eight seconds perhaps,
 without intermission.
 
-"Well!" muttered Charles, recovering his wits, "another of the Baron's
+"Well?" muttered Charles, recovering his wits, "another of the Baron's
 whims."
 
 He dressed himself quickly, descended the stairs, stopped in front of
@@ -1526,7 +1526,7 @@ of your bell. Now, who, do you think, rang it?"
 
 "Monsieur le baron, of course."
 
-"When could he ring it!"
+"When could he ring it?"
 
 "After the struggle ... when he was dying."
 
@@ -1620,7 +1620,7 @@ this case."
 
 "Is the blonde Lady--precisely."
 
-"And that Lupin had a hand in both cases!"
+"And that Lupin had a hand in both cases?"
 
 "Yes, that is my opinion."
 
@@ -1887,7 +1887,7 @@ Friday, evening at five o'clock. Ganimard."
 
        *       *       *       *       *
 
-At five o 'clock, Friday evening, their automobile stopped in front of
+At five o'clock, Friday evening, their automobile stopped in front of
 number nine rue Boissy-d'Anglas. The old detective was standing on the
 sidewalk, waiting for them. Without a word, he conducted them to the
 first floor of the Japanese Tea-room. In one of the rooms, they met two
@@ -1901,7 +1901,7 @@ A few minutes later, another man arrived. It was Mon. Dudouis, head of
 the detective service, and he appeared to be in a particularly bad
 temper. He bowed, and then said:
 
-"What's the trouble now, Ganimard! I received your telephone message
+"What's the trouble now, Ganimard? I received your telephone message
 asking me to come here. Is it anything of consequence?"
 
 "Yes, chief, it is a very important matter. Within an hour, the last two
@@ -2083,7 +2083,7 @@ some diamonds. Have you procured the stones you promised to bring?"
 "Come! Jog your memory! A person of your acquaintance intended to send
 you a tinted stone.... 'Something like the blue diamond,' I said,
 laughing; and you replied: 'Exactly, I expect to have just what you
-want.' Do you remember!"
+want.' Do you remember?"
 
 She made no reply. A small satchel fell from her hand. She picked it up
 quickly, and held it securely. Her hands trembled slightly.
@@ -2125,7 +2125,7 @@ is your handwriting, madame ... it is your name and address, which you
 gave to the porter of the Hôtel Beaurivage at Trouville. Now, compare
 the four handwritings. They are identical."
 
-"What absurdity is this! really, monsieur, I do not understand. What
+"What absurdity is this? really, monsieur, I do not understand. What
 does it mean?"
 
 "It means, madame," exclaimed Ganimard, "that the blonde Lady, the
@@ -3022,8 +3022,8 @@ to cut off the man's retreat. But he did not see anyone, and, owing to
 the darkness, it was several seconds before he was able to distinguish a
 bulky form moving through the shrubbery. This gave the Englishman food
 for reflection. Why had the man not made his escape, which he could have
-done so easily! Had he remained in order to watch the movements of the
-intruder who had disturbed him in his mysterious work!
+done so easily? Had he remained in order to watch the movements of the
+intruder who had disturbed him in his mysterious work?
 
 "At all events," concluded Sholmes, "it is not Lupin; he would be more
 adroit. It may be one of his men."
@@ -3196,7 +3196,7 @@ apartments. He noticed, also, two circles on the oaken panels, an arrow
 on a wainscot, and four figures on four steps of the stairs. At the end
 of an hour Wilson said:
 
-"The figures are correct, aren't they!"
+"The figures are correct, aren't they?"
 
 "I don't know; but, at all events, they mean something," replied
 Sholmes, who had forgotten the discomforts of the night in the joy
@@ -3328,14 +3328,14 @@ Sholmes stopped, as he replied:
 
 "Wilson, I was thinking of your card."
 
-"Well!"
+"Well?"
 
 "The point is this: here is a man who, in view of a possible struggle
 with us, procures specimens of our handwriting, and who holds, in his
 possession, one or more of your cards. Now, have you considered how much
 precaution and skill those facts represent?"
 
-"Well!"
+"Well?"
 
 "Well, Wilson, to overcome an enemy so well prepared and so thoroughly
 equipped requires the infinite shrewdness of ... of a Herlock Sholmes.
@@ -3343,7 +3343,7 @@ And yet, as you have seen, Wilson, I have lost the first round."
 
        *       *       *       *       *
 
-At six o 'clock the _Echo de France_ published the following article in
+At six o'clock the _Echo de France_ published the following article in
 its evening edition:
 
 "This morning Mon. Thenard, commissary of police in the sixteenth
@@ -3489,9 +3489,9 @@ Sholmes leaned out of the window. He saw two men leaving the house,
 carrying bicycles. They mounted them and quickly disappeared around the
 corner.
 
-"How long have they been working on this scaffolding!"
+"How long have they been working on this scaffolding?"
 
-"Those men!... only since this morning. It's their first day."
+"Those men?... only since this morning. It's their first day."
 
 Sholmes returned to the street, and joined Wilson. Together they
 returned to the hotel, and thus the second day ended in a mournful
@@ -3502,16 +3502,16 @@ together on a bench in the avenue Henri-Martin, much to Wilson's
 disgust, who did not find it amusing to spend long hours watching the
 house in which the tragedy had occurred.
 
-"What do you expect, Sholmes! That Arsène Lupin will walk out of the
-house!"
+"What do you expect, Sholmes? That Arsène Lupin will walk out of the
+house?"
 
 "No."
 
-"That the blonde Lady will make her appearance!"
+"That the blonde Lady will make her appearance?"
 
 "No."
 
-"What then!"
+"What then/"
 
 "I am looking for something to occur; some slight incident that will
 furnish me with a clue to work on."
@@ -3747,7 +3747,7 @@ one, of course--and said to him:
 "Take care of yourself, old fellow. Henceforth your rôle will be to keep
 two or three of Arsène Lupin's men busy watching here in vain for my
 return to enquire about your health. It is a secret mission for you,
-eh!"
+eh?"
 
 "Yes, and I shall do my best to fulfil it conscientiously. Then you do
 not expect to come here any more?"
@@ -4054,7 +4054,7 @@ A half hour passed away. The crowd had grown larger, and Sholmes
 perceived only at intervals the accomplices of Arsène Lupin. Then
 someone brushed against him and whispered in his ear:
 
-"Well! what is it, Monsieur Sholmes?"
+"Well? what is it, Monsieur Sholmes?"
 
 "Ah! it is you, Ganimard?"
 
@@ -4369,7 +4369,7 @@ on Tuesday or Wednesday night."
 
 "The capture of Arsène Lupin," replied Sholmes.
 
-"Do you think so!"
+"Do you think so?"
 
 "I swear it, on my honor, monsieur."
 
@@ -4614,7 +4614,7 @@ my residence to a safer place, and Sholmes' appearance on the scene has
 prompted me to do so at once. When a man like that is on your track, you
 must be prepared for the worst. Well, I am making my preparations. Day
 after to-morrow, Wednesday, I shall move. At noon it will be finished.
-At two o 'clock I shall leave the place, after removing the last trace
+At two o'clock I shall leave the place, after removing the last trace
 of our residence there, which will be no small matter. Until then----"
 
 "Well?"
@@ -4703,7 +4703,7 @@ clouds of smoke he studied the deductions that might be drawn from the
 account of M.B., or rather, from the account of Maxime Bermond alias
 Arsène Lupin.
 
-At eight o 'clock he sent the following message to Ganimard:
+At eight o'clock he sent the following message to Ganimard:
 
      "I expect to pass through the rue Pergolese this forenoon and will
      inform you of a person whose arrest is of the highest importance.
@@ -5785,7 +5785,7 @@ Englishman. You treat this as a matter of business."
 
 "It is a matter of business."
 
-"Well! what is your offer?"
+"Well? what is your offer?"
 
 "The liberty of Mademoiselle Destange."
 
@@ -6056,8 +6056,8 @@ your own fault."
 "Never! never!" exclaimed Lupin. "Give you the blue diamond? Oh! no, it
 has cost me too much trouble. I intend to keep it. On my occasion of my
 first visit to you in London--which will probably be next month--I will
-tell you my reasons. But will you be in London next month! Or do you
-prefer Vienna! Or Saint Petersburg?"
+tell you my reasons. But will you be in London next month? Or do you
+prefer Vienna? Or Saint Petersburg?"
 
 Then Lupin received a surprise. A bell commenced to ring. It was not the
 alarm-bell, but the bell of the telephone which was located between the
@@ -6377,7 +6377,7 @@ was breathing freely, Ganimard ordered his men to carry the prisoner by
 the head and feet, while he himself supported the body.
 
 "Go gently, now!... Don't jolt him. Ah! the brutes would have killed
-him.... Well, Lupin, how goes it!"
+him.... Well, Lupin, how goes it?"
 
 "None too well, Ganimard ... you let them knock me out."
 
@@ -6486,7 +6486,7 @@ diamond recovered!"
 
 "Ah! yes, don't you remember, Wilson, that it was at the very time you
 were in the pharmacy, suffering like a hero, that I discovered the clue
-to the whole mystery!"
+to the whole mystery?"
 
 "How lucky!"
 
@@ -6629,7 +6629,7 @@ a gesture of annoyance, and a wrinkle appeared on his forehead during
 the reading of the letter; then, crushing the paper into a ball, he
 threw it, angrily, on the floor.
 
-"Well! What's the matter?" asked Wilson, anxiously.
+"Well? What's the matter?" asked Wilson, anxiously.
 
 He picked up the ball of paper, unfolded it, and read, with increasing
 amazement:
@@ -6851,8 +6851,8 @@ Repressing a furious access of rage, Sholmes said to the man:
 So then it appears that Arsène Lupin had foreseen that he, Sholmes,
 would accept the challenge. More than that, the letter written by Lupin
 showed that he was eager for the fray and that he was prepared to
-measure swords once more with his formidable rival. Why! What motive
-could Arsène Lupin have in renewing the struggle!
+measure swords once more with his formidable rival. Why? What motive
+could Arsène Lupin have in renewing the struggle?
 
 Sholmes hesitated for a moment. Lupin must be very confident of his
 success to show so much insolence in advance; and was not he, Sholmes,
@@ -6976,7 +6976,7 @@ tabernacle of chased silver, a small Jewish lamp. It has disappeared."
 
 "That is all."
 
-"Ah!... And what is a Jewish lamp!"
+"Ah!... And what is a Jewish lamp?"
 
 "One of those copper lamps used by the ancient Jews, consisting of a
 standard which supported a bowl containing the oil, and from this bowl
@@ -7031,7 +7031,7 @@ simple methods employed by the thief. To raise a ladder, cut a
 window-pane, select a valuable article, and walk out again--no, that is
 not the way such things are done. All that is too plain, too simple."
 
-"Well, what do you think!"
+"Well, what do you think?"
 
 "That the Jewish lamp was stolen under the direction of Arsène Lupin."
 
@@ -7041,7 +7041,7 @@ not the way such things are done. All that is too plain, too simple."
 Perhaps a servant descended from the upper floor by means of a
 waterspout that I noticed when I was in the garden."
 
-"What makes you think so!"
+"What makes you think so?"
 
 "Arsène Lupin would not leave this room empty-handed."
 
@@ -7051,7 +7051,7 @@ waterspout that I noticed when I was in the garden."
 diamonds, or that opal necklace. When he leaves anything, it is because
 he can't carry it away."
 
-"But the marks of the ladder outside!"
+"But the marks of the ladder outside?"
 
 "A false scent. Placed there simply to avert suspicion."
 
@@ -7175,7 +7175,7 @@ revolver, and cried:
 
 "The deuce! Wilson, what do you mean?"
 
-"Oh! it is you, Sholmes. Do you want me!"
+"Oh! it is you, Sholmes. Do you want me?"
 
 "I want to show you something. Get up."
 
@@ -7417,7 +7417,7 @@ numerical order, and obtained the following result:
 
 CDEHNOPEZ--237.
 
-"Well! at first sight, it is a rather formidable puzzle," he murmured,
+"Well? at first sight, it is a rather formidable puzzle," he murmured,
 "but, by transposing the letters and using all of them, is it possible
 to form one, two or three complete words?"
 
@@ -7613,7 +7613,7 @@ pointed out.
 In a few minutes the concierge stood before them. Sholmes asked him if,
 on the Sunday morning, he had seen a young woman dressed in black.
 
-"In black! Yes, about nine o'clock. She went to the second floor."
+"In black? Yes, about nine o'clock. She went to the second floor."
 
 "Have you seen her often?"
 
@@ -7834,7 +7834,7 @@ An hour later, when Ganimard and Sholmes left the house, they had
 acquired no further knowledge of the strange individual who had been
 driven to suicide by their untimely visit.
 
-Who was he! Why had he killed himself? What was his connection with the
+Who was he? Why had he killed himself? What was his connection with the
 affair of the Jewish lamp? Who had followed him on his return from the
 river? The situation involved many complex questions--many mysteries----
 
@@ -8843,6 +8843,8 @@ devised the scheme of the theft in order to save her from Bresson.
 "You, Suzanne, you," repeated Monsieur d'Imblevalle, bowed with grief
 and shame.... "How could you?"
 
+*****
+
 On the same evening, the steamer "City of London," which plies between
 Calais and Dover, was gliding slowly over the smooth sea. The night was
 dark; the wind was fainter than a zephyr. The majority of the passengers
@@ -9117,7 +9119,7 @@ Gentleman-Burglar"._
 
 
 
-End of the Project Gutenberg EBook of Arsène Lupin versus Herlock Sholmes, by 
+End of the Project Gutenberg EBook of Arsène Lupin versus Herlock Sholmes, by
 Maurice LeBlanc
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ARSENE LUPIN VS HERLOCK SHOLMES ***
